@@ -1,4 +1,6 @@
 /* Inorder to successfully execute this file you need to download the Computer_choices.java as well else it will not work*/
+// develped by sachin sharma 
+// github --> Sachinsharma01
 
 import java.util.Scanner;
 
